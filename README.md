@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/7610adb1-9c09-407f-9186-3416f2da0472
+
 # Blender MCP Agent
 
 <video src="assets/demo_video.mp4" controls width="100%"></video>
