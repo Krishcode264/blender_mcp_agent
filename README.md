@@ -1,6 +1,6 @@
 # Blender MCP Agent
 
-https://github.com/Krishcode264/blender_mcp_agent/raw/main/assets/demo_video.mp4
+<video src="assets/demo_video.mp4" controls width="100%"></video>
 
 An AI-powered agent system that lets you control Blender through natural language. Send a prompt like "Create a bouncing cube" and watch Blender execute it — with real-time streaming feedback and live previews.
 
