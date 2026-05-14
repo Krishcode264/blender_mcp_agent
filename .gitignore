@@ -10,6 +10,7 @@ __pycache__/
 *$py.class
 venv/
 .env
+.env.*
 .pytest_cache/
 
 # Node
@@ -20,12 +21,30 @@ build/
 dist/
 package-lock.json
 
-# macOS
-.DS_Store
+# Next.js / TypeScript
+*.tsbuildinfo
+next-env.d.ts
+.vercel/
 
-# Logs
+# Coverage & Logs
+coverage/
 *.log
 agent_trace.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Yarn / Package Managers
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# macOS
+.DS_Store
 
 # Local Tools
 .claude/
