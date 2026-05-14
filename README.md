@@ -1,6 +1,10 @@
 
 
-https://github.com/user-attachments/assets/7610adb1-9c09-407f-9186-3416f2da0472
+
+
+https://github.com/user-attachments/assets/044ecbe1-4f7d-49ab-8707-ce70d121da99
+
+
 
 # Blender MCP Agent
 
